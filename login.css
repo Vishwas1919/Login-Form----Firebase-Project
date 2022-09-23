@@ -1,0 +1,56 @@
+body{
+   background:#C0C0C0;
+}
+.login-box{
+    width: 800px;
+    height: 500px;
+    background: #fff;
+    position: absolute;
+    top: 10%;
+    left: 30%;
+}
+.left{
+    position: absolute;
+    top: 10%;
+    left: 5%;
+}
+input{
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+}
+.right{
+    position: absolute;
+    top: 30%;
+    left: 60%;
+    padding: 10px;
+}
+.loginwith{
+    padding: 10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: -10%;
+    top: -20px;
+    color:royalblue;
+}
+button{
+    padding: 10px;
+    margin:10px;
+    width: 250px;
+    border: none;
+    cursor: pointer;
+}
+.facbook{
+    color: white;
+    background:#0000FF;
+    
+}
+.twiter{
+    color: white;
+    background:#0BF3D4;
+}
+.google{
+    color: white;
+    background:#E34F24 ;
+}
